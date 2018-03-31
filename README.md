@@ -7,4 +7,4 @@ To run:
 First install pipenv, then
 
 pipenv install
-pipenv run "pythin find_meteors.py"
+pipenv run "python meteors/find_meteors.py"
