@@ -4,4 +4,7 @@ Demo project for NASA and python
 This project requires Python3 and the requests package
 
 To run:
-$ Python3 find_meteors.py
+First install pipenv, then
+
+pipenv install
+pipenv run "pythin find_meteors.py"
